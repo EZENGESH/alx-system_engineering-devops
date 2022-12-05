@@ -1,1 +1,2 @@
-vim -r .7-file.swap
+#!/bin/bash
+echo "BEST School" | cat > /'\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
